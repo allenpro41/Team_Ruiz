@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">testttt</string>
+    <string-array name="position">
+        <item>05:00</item>
+        <item>10:00</item>
+        <item>15:00</item>
+        <item>20:00</item>
+        <item>25:00</item>
+        <item>30:00</item>
+        <item>35:00</item>
+        <item>40:00</item>
+        <item>45:00</item>
+        <item>50:00</item>
+        <item>55:00</item>
+        <item>60:00</item>
+    </string-array>
+    <string name="txtyear">Description</string>
+    <string name="txtName">Title</string>
+    <string name="txtCourse">Course</string>
+    <string name="txttitle">MOTIVATE ME</string>
+    <string name="txtaddstud">ADD TASK</string>
+    <string name="txtViewstud">VIEW TASK</string>
+    <string name="txtadd">ADD</string>
+    <string name="txtback">BACK</string>
+    <string name="txtinfo">INFORMATION</string>
+    <string name="txtupdate">UPDATE</string>
+    <string name="txtDELETE">DELETE</string>
+    <string name="txtsave">SAVE</string>
+    <string name="txtdelete">DELETE</string>
+    <string name="txtstart">START</string>
+    <string name="txttimeleft">01:00</string>
+    <string name="title_activity_stats">Stats</string>
+    <string name="title_activity_stat">stat</string>
+</resources>
